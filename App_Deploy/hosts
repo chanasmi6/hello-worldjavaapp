@@ -1,0 +1,2 @@
+[localhost]
+54.174.226.180  ansible_ssh_user=centos ansible_ssh_private_key_file=/home/centos/pem/jenkins.pem
